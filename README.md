@@ -3,9 +3,9 @@ This Django project is designed for hospital management with three types of user
 Admin Credentials
   Username: admin
   Password: admin
-Doctor Credentials
+,Doctor Credentials
   Username: om
   Password: om
-Patient Credentials
+,Patient Credentials
   Username: hari
   Password: hari
